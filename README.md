@@ -3,4 +3,4 @@
 *An experiment of [theaveragedev.com](http://theaveragedev.com/ "theAverageDev - Better than yesterday."), not a theme.*
 
 ## Usage 
-After installing and activating a theme create a page called "Lazy Loading", that's it.
+Download, install and activate the theme. See lazy loading happening.
